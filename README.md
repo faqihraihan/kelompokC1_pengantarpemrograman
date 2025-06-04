@@ -3,4 +3,6 @@ Muh. Faqih Raihan
 
 Muh. Farid Wajedy
 
-Repositori ini di khususkan untuk menyimpan tugas kulihah Pengantar Pemrograman
+## Informasi
+
+Repositori ini di khususkan untuk menyimpan tugas kuliah Pengantar Pemrograman
