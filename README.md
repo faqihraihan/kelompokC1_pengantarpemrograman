@@ -1,5 +1,5 @@
 # Nama Anggota Kelompok
-Muh. Faqih Raihan
+Muh. Faqih Raihan [Github]https://github.com/faqihraihan
 
 Muh. Farid Wajedy
 
